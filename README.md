@@ -1,2 +1,2 @@
-# video-player
+# video_player
 youtube video player
